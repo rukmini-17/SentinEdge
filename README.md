@@ -11,9 +11,9 @@ The system is composed of four distinct layers:
 
 ## 📊 Performance Benchmarks
 As of February 2026, the engine achieves the following metrics on a standard transaction stream:
-* **Overall Accuracy:** 99.07%
-* **Precision:** 92.16% (Low false-positive rate for customer experience)
-* **Recall:** 87.04% (High fraud capture rate)
+* **Overall Accuracy:** 99.21%
+* **Precision:** 94.03% (Low false-positive rate for customer experience)
+* **Recall:** 90.00% (High fraud capture rate)
 
 ## 📂 Project Structure
 ```text
